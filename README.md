@@ -16,8 +16,45 @@ MusicPlayer2 is an audio player whitch supports music collection playback, lyric
 
 **排序按中文音序 | Sort by Chinese phonetic order**
 
+**有些包含游戏原声带 | Some include game soundtracks**
+
+# A
+
+
+
+# B
+
+RDG レッドデータガール/濒危物种少女/RDG: Red Data Girl
+
+# C
+
+
+
+# D
+
+電波女と青春男/电波女与青春男/Denpa Onna to Seishun Otoko
+
+# H
+
+H2O \~FOOTPRINTS IN THE SAND~\/H2O 赤砂的印记/H2O: Footprints in the Sand
+
+# J
+
+ストロベリー・パニック/惊爆草莓/Strawberry Panic
+
+# W
+
+Myself; Yourself/我自己；你自己
+
 # X
 
 [あかね色に染まる坂/夕阳染红的街道/Akane-iro ni Somaru Saka](https://github.com/Little-Data/Anime-LRCS/blob/main/wiki/あかね色に染まる坂.md)
 
 [失われた未来を求めて/寻找失去的未来/Ushinawareta Mirai o Motomete](https://github.com/Little-Data/Anime-LRCS/blob/main/wiki/失われた未来を求めて.md)
+
+# Y
+
+イリヤの空, UFOの夏/伊里野之空, UFO之夏/Iriya no Sora, UFO no Natsu
+
+半分の月がのぼる空/仰望半月的夜空/Hanbun no Tsuki ga Noboru Sora
+ 
