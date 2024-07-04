@@ -2,6 +2,8 @@
 
 一些ACG相关的 .lrc 歌词（日文 + 中文翻译） | Some ACG related .lrc lyrics (Japanese + Chinese translation)
 
+[提交歌词Submit lyrics](https://github.com/Little-Data/Anime-LRCS/issues/new?assignees=&labels=Submit&projects=&template=submit-lyrics.md&title=Submit+lyrics)
+
 ----
 
 如想体验更好的歌词播放体验，推荐[MusicPlayer2](https://github.com/zhongyang219/MusicPlayer2)：
