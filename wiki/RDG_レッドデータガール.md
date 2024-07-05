@@ -19,10 +19,10 @@
   * [VGM](https://vgmdb.net/album/37873)
   * OP
 
-[01 	スモルワールドロップ 	5:06](https://github.com/Little-Data/Anime-LRCS/blob/main/2013/RDG_レッドデータガール/スモルワールドロップ.lrc)
+[01 スモルワールドロップ 5:06](https://github.com/Little-Data/Anime-LRCS/blob/main/2013/RDG_レッドデータガール/スモルワールドロップ.lrc)
 
-[02 	指標 	4:54](https://github.com/Little-Data/Anime-LRCS/blob/main/2013/RDG_レッドデータガール/指標.lrc)
+[02 指標 4:54](https://github.com/Little-Data/Anime-LRCS/blob/main/2013/RDG_レッドデータガール/指標.lrc)
 
-03 	スモルワールドロップ (Instrumental) 	5:06
+03 スモルワールドロップ (Instrumental) 5:06
 
-04 	指標 (Instrumental) 	4:54
+04 指標 (Instrumental) 4:54
