@@ -26,7 +26,7 @@ MusicPlayer2 is an audio player whitch supports music collection playback, lyric
 
 # B
 
-RDG レッドデータガール/濒危物种少女/RDG: Red Data Girl
+[RDG レッドデータガール/濒危物种少女/RDG: Red Data Girl](https://github.com/Little-Data/Anime-LRCS/blob/main/wiki/RDG_レッドデータガール.md)
 
 # C
 
