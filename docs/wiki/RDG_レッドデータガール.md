@@ -10,7 +10,7 @@
 
 [Anidb](https://anidb.net/anime/9328)
 
-# 专辑
+##  专辑
 
 <img src="/img/RDG_レッドデータガール/37873-1365756558.jpg" width="30%" height="30%" />
 
