@@ -21,7 +21,21 @@
 
 [01 スモルワールドロップ 5:06](https://github.com/Little-Data/Anime-LRCS/blob/main/2013/RDG_レッドデータガール/スモルワールドロップ.lrc)
 
+<details>
+<summary>点击展开查看歌词Click to expand to view lyrics</summary>
+
+[01 スモルワールドロップ 5:06](https://cdn.jsdelivr.net/gh/Little-Data/Anime-LRCS@main/2013/RDG_レッドデータガール/スモルワールドロップ.lrc ':include :type=code')
+
+</details>
+
 [02 指標 4:54](https://github.com/Little-Data/Anime-LRCS/blob/main/2013/RDG_レッドデータガール/指標.lrc)
+
+<details>
+<summary>点击展开查看歌词Click to expand to view lyrics</summary>
+
+[02 指標 4:54](https://cdn.jsdelivr.net/gh/Little-Data/Anime-LRCS@main/2013/RDG_レッドデータガール/指標.lrc ':include :type=code')
+
+</details>
 
 03 スモルワールドロップ (Instrumental) 5:06
 
