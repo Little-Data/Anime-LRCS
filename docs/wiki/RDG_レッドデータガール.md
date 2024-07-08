@@ -1,6 +1,6 @@
 # RDG レッドデータガール
 
-<img src="/img/RDG_レッドデータガール/133713.jpg" width="30%" height="30%" />
+<img src="/docs/img/RDG_レッドデータガール/133713.jpg" width="30%" height="30%" />
 
 罗马字：RDG: Red Data Girl
 
@@ -12,7 +12,7 @@
 
 ##  专辑
 
-<img src="/img/RDG_レッドデータガール/37873-1365756558.jpg" width="30%" height="30%" />
+<img src="/docs/img/RDG_レッドデータガール/37873-1365756558.jpg" width="30%" height="30%" />
 
 * スモルワールドロップ / Annabel
   * Small worldrop / Annabel
