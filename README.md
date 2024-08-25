@@ -30,6 +30,10 @@ MusicPlayer2 is an audio player whitch supports music collection playback, lyric
 
 [ウィンターガーデン/冬季花园/Di Gi Charat: Winter Garden](https://github.com/Little-Data/Anime-LRCS/tree/main/2012/%E3%82%A6%E3%82%A3%E3%83%B3%E3%82%BF%E3%83%BC%E3%82%AC%E3%83%BC%E3%83%87%E3%83%B3)
 
+# S
+
+[Sola Color album](https://github.com/Little-Data/Anime-LRCS/tree/main/2007/Sola%20Color%20album)
+
 # X
 
 [失われた未来を求めて/寻找失去的未来/Ushinawareta Mirai o Motomete](https://github.com/Little-Data/Anime-LRCS/tree/main/2014/%E5%A4%B1%E3%82%8F%E3%82%8C%E3%81%9F%E6%9C%AA%E6%9D%A5%E3%82%92%E6%B1%82%E3%82%81%E3%81%A6)
