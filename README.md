@@ -43,3 +43,7 @@ MusicPlayer2 is an audio player whitch supports music collection playback, lyric
 # Y
 
 [シャドーハウス/影宅/Shadows House](https://github.com/Little-Data/Anime-LRCS/tree/main/2021/%E3%82%B7%E3%83%A3%E3%83%89%E3%83%BC%E3%83%8F%E3%82%A6%E3%82%B9)
+
+# Z
+
+[さよならの朝に約束の花をかざろう/朝花夕誓 于离别之朝束起约定之花/Maquia: When the Promised Flower Blooms](https://github.com/Little-Data/Anime-LRCS/tree/main/2018/さよならの朝に約束の花をかざろう)
